@@ -5,19 +5,17 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript,Java],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+         css: "Material UI"
       },
       backEnd: {
          js: ["Node", "Express"]
       },
       databases: ["MongoDB", "PostgreSQL"],
    },
-   currentOccupation: ["Tech Instructor at Henry"],
 };
 ```
 <h3 align="left">Languages and Tools:</h3>
