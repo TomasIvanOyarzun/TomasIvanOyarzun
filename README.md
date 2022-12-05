@@ -1,4 +1,4 @@
-# TomasIvanOyarzun-
+<img src="https://github.com/TomasIvanOyarzun/TomasIvanOyarzun-/blob/main/src/img/good-programmer-banner-final.jpg" alt="banner">
 
 ```javascript
 const aboutMe = {
