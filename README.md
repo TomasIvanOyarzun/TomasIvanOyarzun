@@ -18,8 +18,10 @@ const aboutMe = {
    },
 };
 ```
+
+<h3 align="left">Contactame:</h3>
 - Contactame en mi correo electronico **oyarzuntomas99@gmail.com**
-- <a href="https://linkedin.com/in/bryancamilopineda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /><
+- Mi LinkedIn --->  <a href="https://linkedin.com/in/bryancamilopineda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" />
 
 
 <h3 align="left">Languages and Tools:</h3>
