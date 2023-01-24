@@ -3,9 +3,9 @@
 <h3 align="center">Tengo 23 años, desde pequeño me gusto todo lo relacionado a la informática, tanto como el hardware y el software , hasta que en mi camino académico conocí a la programación , desde entonces empece apasionarme y decidí ir por ese camino.</h3>
 
 
-```java
+```javascript
 const aboutMe = {
-   code: [Javascript, Typescript,Java],
+   code: [Javascript,Typescript,Java],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
