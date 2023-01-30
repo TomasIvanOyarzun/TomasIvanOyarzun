@@ -40,4 +40,5 @@ const aboutMe = {
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TomasIvanOyarzun&theme=highcontrast&show_icons=true&count_private=true">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasIvanOyarzun&layout=compact">
 
