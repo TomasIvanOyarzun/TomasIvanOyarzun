@@ -1,6 +1,6 @@
 <img src="https://github.com/TomasIvanOyarzun/TomasIvanOyarzun-/blob/main/src/img/www.reallygreatsite.com.gif" alt="banner">
 
-<h3 align="center">Tengo 23 años, desde pequeño me gusto todo lo relacionado a la informática, tanto como el hardware y el software , hasta que en mi camino académico conocí a la programación , desde entonces empece apasionarme y decidí ir por ese camino.</h3>
+<h3 align="center">Tengo 24 años, desde pequeño me gusto todo lo relacionado a la informática, tanto como el hardware y el software , hasta que en mi camino académico conocí a la programación , desde entonces empece apasionarme y decidí ir por ese camino.</h3>
 
 
 ```javascript
